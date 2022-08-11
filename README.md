@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajjmayank
-- 👀 I’m interested in web developmen and Coding
+- 👀 I’m interested in web development and Coding
 - 🌱 I’m currently learning java, Cascading Style Sheets
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
