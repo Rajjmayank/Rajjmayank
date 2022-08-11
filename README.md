@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajjmayank
 - 👀 I’m interested in web development and Coding
-- 🌱 I’m currently learning java, Cascading Style Sheets
+- 🌱 I’m currently learning java, Java Script, Html, Cascading Style Sheets(CSS), 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
